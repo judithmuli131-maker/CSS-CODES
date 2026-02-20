@@ -1,0 +1,12 @@
+h1 ,h2{
+    color: aqua;
+}
+body{
+    font-size: 30px;
+    background-color: black;
+    font-family: monospace;
+}
+p{
+    font-size: 25px;
+    color: aqua;
+}
